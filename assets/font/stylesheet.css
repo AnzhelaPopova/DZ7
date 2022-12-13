@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Chester Sans';
+    src: url('ChesterSans-Bold.eot');
+    src: local('Chester Sans Bold'), local('ChesterSans-Bold'),
+        url('ChesterSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ChesterSans-Bold.woff2') format('woff2'),
+        url('ChesterSans-Bold.woff') format('woff'),
+        url('ChesterSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chester Sans';
+    src: url('ChesterSans-Light.eot');
+    src: local('Chester Sans Light'), local('ChesterSans-Light'),
+        url('ChesterSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('ChesterSans-Light.woff2') format('woff2'),
+        url('ChesterSans-Light.woff') format('woff'),
+        url('ChesterSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
